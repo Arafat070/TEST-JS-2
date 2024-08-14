@@ -1,0 +1,9 @@
+.color-block{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 1px solid black;
+}
+.color-block.active {
+    background-color: lightblue;
+}
